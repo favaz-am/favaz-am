@@ -1,0 +1,15 @@
+{
+  "title": "Skill Radar",
+
+  "_comment": "Self-rated skills based on my current learning and project experience. Values are 0-100.",
+
+  "axes": [
+    { "label": "JavaScript", "value": 80 },
+    { "label": "React", "value": 75 },
+    { "label": "Node.js", "value": 72 },
+    { "label": "Express.js", "value": 72 },
+    { "label": "MongoDB", "value": 70 },
+    { "label": "TypeScript", "value": 55 },
+    { "label": "Next.js", "value": 45 }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "_comment": "Featured projects, in README order. Project information is fetched from GitHub when the cards are generated.",
+
+  "projects": [
+    {
+      "repo": "Kara-mol",
+      "description": "An AI assistant application currently being built as a collaborative project, focused on creating a practical AI-powered experience."
+    },
+
+    {
+      "repo": "Shopping-Cart",
+      "description": "A full-stack e-commerce application built with Node.js and Express.js, featuring products, authentication, orders, and online payment integration."
+    },
+
+    {
+      "repo": "Memory.Game",
+      "description": "A classic card-flipping memory game built with React, where players match pairs of cards while progressing through the game."
+    },
+
+    {
+      "repo": "TodoApp",
+      "description": "A clean React-based todo application for creating, managing, editing, and completing daily tasks."
+    }
+  ]
+}
