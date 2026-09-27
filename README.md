@@ -136,8 +136,6 @@ Currently, I'm working on **Kara-mol**, an AI assistant application, while conti
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
 </div>
 
 ---
